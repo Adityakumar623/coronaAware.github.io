@@ -6,10 +6,9 @@ In short, it is the go-to website for anyone who wants information related to co
 
 Created By:
 
-### Tejas Tapas -
-Github Id: Tejas1510
+### Aditya Kumar -
+Github Id: Adityakumar623
 
-### Rishabh Rathi - 
-Website: [Rishabh Rathi](http://www.rishabhrathi.co/)\
-Github Id: [rishabhrathi22](https://github.com/rishabhrathi22)\
-LinkedIn: [rishabhrathi22](https://www.linkedin.com/in/rishabhrathi22/)
+ 
+
+LinkedIn: https://www.linkedin.com/in/aditya-kumar-choubey-577314202/
